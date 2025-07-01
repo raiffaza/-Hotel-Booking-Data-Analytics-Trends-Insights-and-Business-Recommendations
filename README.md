@@ -1,0 +1,2 @@
+# -Hotel-Booking-Data-Analytics-Trends-Insights-and-Business-Recommendations
+This project focuses on analyzing hotel booking data to uncover meaningful patterns and insights that can support  business decision-making. The main goal is to perform data cleaning, exploratory data analysis, and statistical  evaluation to understand customer behavior, booking trends, and potential revenue opportunities. 
